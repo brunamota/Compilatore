@@ -3,7 +3,7 @@
 ### A linguagem do Compilatore é baseada na lingua italiana
 
 Compilatore | Linguagem C | Tradução IT-BR
---------- | --------- | ---------
+:---------: | :---------: | :---------:
 forse | if | talvez
 altro | else | outro
 anche | and (&&) | e
