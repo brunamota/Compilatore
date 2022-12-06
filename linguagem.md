@@ -12,7 +12,7 @@ ripetere | while | repetir
 stampa | printf |  imprimir
  
  
-### ![icon_moeda](https://user-images.githubusercontent.com/66503956/205975462-7fafef44-f576-4f50-a7ac-531786f7dd0e.png) Aqui no léxico, conseguimos ver as definições da gramática, caracteres e tokens para a nossa linguagem:
+#### ![icon_moeda](https://user-images.githubusercontent.com/66503956/205975462-7fafef44-f576-4f50-a7ac-531786f7dd0e.png) Aqui no léxico, conseguimos ver as definições da gramática, caracteres e tokens para a nossa linguagem:
  
  ```c
 %{
