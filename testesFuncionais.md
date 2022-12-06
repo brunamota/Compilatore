@@ -60,3 +60,4 @@ stampa soma|
 
 ![funciona02](https://user-images.githubusercontent.com/66503956/205971985-c92c6b5b-262c-4143-8982-8329fc781fd5.PNG)
 
+![icon_moeda](https://user-images.githubusercontent.com/66503956/205975857-3a0fd61d-d6da-4c3e-bf03-531f64d1d883.png)
