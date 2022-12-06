@@ -28,16 +28,16 @@ L	[a-zA-Z_]
 
 %% 
 
-[ \t\r\n]			{}
-"stampa"				{ return TOK_STAMPA; }
-"="					{ return '=';  }
-"*"					{ return '*'; }
-"/"					{ return '/'; }
-"+"					{ return '+'; }
-"-"					{ return '-'; }
-"("					{ return '('; }
-")"					{ return ')'; }
-"^"					{ return '^'; }
+[ \t\r\n]       {}
+"stampa"        { return TOK_STAMPA; }
+"="        	{ return '=';  }
+"*"        	{ return '*'; }
+"/"        	{ return '/'; }
+"+"        	{ return '+'; }
+"-"        	{ return '-'; }
+"("        	{ return '('; }
+")"        	{ return ')'; }
+"^"        	{ return '^'; }
 
 [<>!{}]		{ return yytext[0]; }
 "anche"		{ return TOK_anche; }
