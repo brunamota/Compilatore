@@ -1,7 +1,5 @@
 ![compilatore_capa01](https://user-images.githubusercontent.com/66503956/205981030-09a3e0bd-dd5d-443b-a09b-15446132ddde.png)
 
-![compilatore_capa](https://user-images.githubusercontent.com/66503956/205915405-d04d6687-cabd-445c-939d-5028de10da8c.png)
-
 # Trabalho final da matéria de Compiladores
 #### Ciência da Computação - Universidade Federal de Jataí
 #### Aluna: Bruna Mota Barbosa
