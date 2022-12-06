@@ -11,3 +11,24 @@ uno | or (\| \|) | ou
 ripetere | while | repetir
 stampa | printf |  imprimir
  
+ 
+ ```
+ [ \t\r\n]			{}
+"stampa"				{ return TOK_STAMPA; }
+"="					{ return '=';  }
+"*"					{ return '*'; }
+"/"					{ return '/'; }
+"+"					{ return '+'; }
+"-"					{ return '-'; }
+"("					{ return '('; }
+")"					{ return ')'; }
+"^"					{ return '^'; }
+
+[<>!{}]		{ return yytext[0]; }
+"anche"		{ return TOK_anche; }
+"uno"		{ return TOK_uno; }
+"forse"		{ return TOK_forse; }
+"altro"		{ return TOK_altro; }
+"ripetere"	{ return TOK_ripetere; }
+"|"             { return '|';}
+```
