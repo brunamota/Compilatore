@@ -1,4 +1,5 @@
 
+![compilatore_capa01](https://user-images.githubusercontent.com/66503956/205980901-588c5282-e09f-4f6d-894d-943d2488c1c3.png)
 
 ![compilatore_capa](https://user-images.githubusercontent.com/66503956/205915405-d04d6687-cabd-445c-939d-5028de10da8c.png)
 
