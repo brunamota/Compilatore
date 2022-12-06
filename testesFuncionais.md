@@ -59,5 +59,3 @@ stampa soma|
 #### ![icon_flor_20](https://user-images.githubusercontent.com/66503956/205969813-fc7bf4e2-3195-4130-889d-ba05ef346df6.png) Print do prompt do códido 01 declarando a tabela de simbolos do código.
 
 ![funciona02](https://user-images.githubusercontent.com/66503956/205971985-c92c6b5b-262c-4143-8982-8329fc781fd5.PNG)
-
-![icon_moeda](https://user-images.githubusercontent.com/66503956/205975857-3a0fd61d-d6da-4c3e-bf03-531f64d1d883.png)
