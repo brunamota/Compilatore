@@ -41,6 +41,6 @@ stampa a|
 
 ![Arvore_erroSemantico02](https://user-images.githubusercontent.com/66503956/205958362-842f94fb-1c72-41e9-8866-83cb60b350ee.PNG)
 
-#### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png)
+#### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png) Print do prompt mostrando o erro do código
 
 ![erroSemantico02](https://user-images.githubusercontent.com/66503956/205958441-23d726ef-43e7-4d37-b0a3-33c4e57c8f90.PNG)
