@@ -12,7 +12,9 @@ ripetere | while | repetir
 stampa | printf |  imprimir
  
  
- ```
+Aqui no léxico, conseguimos ver as definições da gramática, caracteres e tokens para a nossa linguagem:
+ 
+ ```c
 %{
 	#include <stdio.h>
 	#include "header.h"
