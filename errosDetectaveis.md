@@ -39,8 +39,9 @@ stampa a|
 
 #### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png) Árvore sintática 
 
-![Arvore_erroSemantico02](https://user-images.githubusercontent.com/66503956/205958362-842f94fb-1c72-41e9-8866-83cb60b350ee.PNG)
+![Arvore_erroSemantico01](https://user-images.githubusercontent.com/66503956/205963012-afce3a71-7b53-40b6-8051-2d9464b670b7.png)
 
 #### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png) Print do prompt mostrando o erro do código
 
-![erroSemantico02](https://user-images.githubusercontent.com/66503956/205958441-23d726ef-43e7-4d37-b0a3-33c4e57c8f90.PNG)
+![erroSemantico01](https://user-images.githubusercontent.com/66503956/205962350-8ed79b67-e50c-4f90-a3de-cbbf4fdb9cc9.PNG)
+
