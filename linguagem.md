@@ -10,6 +10,9 @@ anche | and (&&) | e
 uno | or (\| \|) | ou
 ripetere | while | repetir
 stampa | printf |  imprimir
+\| | ; |  pipe*
+
+*a tradução de pipe é cano, utilizei esse símbolo, pois o Mario é um encanador.
  
 #### ![icon_florzinha_20](https://user-images.githubusercontent.com/66503956/205974127-561cf0ec-5992-4ddb-92f6-bcfdc13c0e3e.png) Aqui no léxico, conseguimos ver as definições da gramática, caracteres e tokens para a nossa linguagem:
  
