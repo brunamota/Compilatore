@@ -10,8 +10,6 @@ anche | and (&&) | e
 uno | or (\| \|) | ou
 ripetere | while | repetir
 stampa | printf |  imprimir
- ![icon_moeda](https://user-images.githubusercontent.com/66503956/205979281-f43cecbe-57a7-4ece-a1b4-51d953f7e79d.png)
-
  
 #### ![icon_florzinha_20](https://user-images.githubusercontent.com/66503956/205974127-561cf0ec-5992-4ddb-92f6-bcfdc13c0e3e.png) Aqui no léxico, conseguimos ver as definições da gramática, caracteres e tokens para a nossa linguagem:
  
