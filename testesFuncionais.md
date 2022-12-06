@@ -36,32 +36,27 @@ c = 7|
 d = 9|
 
 forse(a < b){
-  stampa a|
+  potencia = a^2|
+  stampa potencia|
 }
-
 forse((b>c)uno(d==9)){
-  stampa d|
+  subtracao = c - d|
+  stampa subtracao|
 }
 altro{
-  stampa b|
+  mult = b * b|
+  stampa mult|
 }
 
 soma = a + c|
 stampa soma|
-
-subtracao = c - d|
-stampa subtracao|
-
-mult = b * b|
-stampa mult|
-
-divisao = d/a|
-stampa divisao|
-
-potencia = a^2|
-stampa potencia|
 ```
+
 #### ![icon_flor_20](https://user-images.githubusercontent.com/66503956/205969813-fc7bf4e2-3195-4130-889d-ba05ef346df6.png) Arvore sintática do códido 02
 
+![Arvore_funciona02](https://user-images.githubusercontent.com/66503956/205972511-74e93efc-ca55-4fbb-9b53-3fe7b00810b2.png)
 
 #### ![icon_flor_20](https://user-images.githubusercontent.com/66503956/205969813-fc7bf4e2-3195-4130-889d-ba05ef346df6.png) Print do prompt do códido 01 declarando a tabela de simbolos do código.
+
+![funciona02](https://user-images.githubusercontent.com/66503956/205971985-c92c6b5b-262c-4143-8982-8329fc781fd5.PNG)
+
