@@ -1,8 +1,8 @@
 ![linguagem_cmp](https://user-images.githubusercontent.com/66503956/205923023-2a0e0291-5569-49ed-a489-afc864da5923.png)
 
-## ![icon_florzinha_20](https://user-images.githubusercontent.com/66503956/205974127-561cf0ec-5992-4ddb-92f6-bcfdc13c0e3e.png) A linguagem do Compilatore é baseada na lingua italiana 🤌
+## ![icon_florzinha_20](https://user-images.githubusercontent.com/66503956/205974127-561cf0ec-5992-4ddb-92f6-bcfdc13c0e3e.png) A linguagem do Compilatore é baseada na lingua italiana
 
-Compilatore 🤌 | Linguagem C | Tradução IT-BR
+Compilatore | Linguagem C | Tradução IT-BR
 :---------: | :---------: | :---------:
 forse | if | talvez
 altro | else | outro
