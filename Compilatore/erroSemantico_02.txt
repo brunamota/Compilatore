@@ -1,0 +1,8 @@
+a = 3|
+b = 5|
+c = 7|
+d = 9|
+
+divisao = d/0|
+stampa divisao|
+

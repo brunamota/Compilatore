@@ -1,0 +1,10 @@
+A = 10|
+B = 2|
+C = 5|
+
+ripetere(A!=0){
+  stampa C|
+  A = A - 1|
+}
+
+stampa A|

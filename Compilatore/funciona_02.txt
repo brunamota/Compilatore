@@ -1,0 +1,21 @@
+a = 3|
+b = 5|
+c = 7|
+d = 9|
+
+forse(a < b){
+  potencia = a^2|
+  stampa potencia|
+}
+
+forse((b>c)uno(d==9)){
+  subtracao = c - d|
+  stampa subtracao|
+}
+altro{
+  mult = b * b|
+  stampa mult|
+}
+
+soma = a + c|
+stampa soma|
