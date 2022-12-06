@@ -17,7 +17,7 @@ ripetere(A!=0){
 stampa A|
 ```
 
-Arvore sintática do códido 01
+![icon_verde](https://user-images.githubusercontent.com/66503956/205965857-ac7c8e9c-ca9b-4480-9518-036d752c331f.png) Arvore sintática do códido 01
 
 ![Arvore_funciona01](https://user-images.githubusercontent.com/66503956/205954843-73c0d753-6389-4ba6-986f-a6ed68880604.png)
 
@@ -29,4 +29,37 @@ Arvore sintática do códido 01
 
 ### ![icon_verde](https://user-images.githubusercontent.com/66503956/205965857-ac7c8e9c-ca9b-4480-9518-036d752c331f.png) Exemplo 02:
 
+```c
+a = 3|
+b = 5|
+c = 7|
+d = 9|
 
+forse(a < b){
+  stampa a|
+}
+
+forse((b>c)uno(d==9)){
+  stampa d|
+}
+altro{
+  stampa b|
+}
+
+soma = a + c|
+stampa soma|
+
+subtracao = c - d|
+stampa subtracao|
+
+mult = b * b|
+stampa mult|
+
+divisao = d/a|
+stampa divisao|
+
+potencia = a^2|
+stampa potencia|
+```
+![icon_verde](https://user-images.githubusercontent.com/66503956/205965857-ac7c8e9c-ca9b-4480-9518-036d752c331f.png) Arvore sintática do códido 02
+![icon_flor_20](https://user-images.githubusercontent.com/66503956/205967590-676d251e-36e9-4c0a-add4-400c00baa22e.png) Print do prompt do códido 01 declarando a tabela de simbolos do código.
