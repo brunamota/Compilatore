@@ -2,7 +2,7 @@
 
 ### ![icon_vermelho_15](https://user-images.githubusercontent.com/66503956/205958830-c695458a-41a3-47da-b57d-8f5143a258c2.png) Exemplo 01: Falta o '|'
 
-####  Árvore sintática
+#### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png) Árvore sintática
 
 #### ![icon_mau_15](https://user-images.githubusercontent.com/66503956/205960909-177b21be-a580-4a28-96c1-91e336f3a8d2.png) Print do prompt mostrando o erro do código
 
