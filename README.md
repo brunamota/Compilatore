@@ -4,7 +4,8 @@
 
 ## Trabalho final da matéria de Compiladores
 #### Ciência da Computação - Universidade Federal de Jataí
-#### Aluna: Bruna Mota Barbosa | Professor: Thiago Borges
+#### Aluna: Bruna Mota Barbosa
+#### Professor: Thiago Borges
 
 # Roteiro
 
