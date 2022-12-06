@@ -49,13 +49,9 @@ L	[a-zA-Z_]
 
 {D}+		{ yylval.args.intv = atoi(yytext); return TOK_INTEGER;}
 {D}+\.{D}+      { yylval.args.dblv = atof(yytext); return TOK_FLOAT;}
-{L}({L}|{D})*		{ yylval.args.ident = strndup(yytext, yyleng);
-									return TOK_IDENT; }
- /* [a-zA-Z_][a-zA-Z0-9_]* {} */
-
-
- /* comentário */
-.					{ printf("Invalid caracter: %c.\n", yytext[0]); }
+{L}({L}|{D})*	{ yylval.args.ident = strndup(yytext, yyleng); return TOK_IDENT; }
+ 
+.               { printf("Invalid caracter: %c.\n", yytext[0]); }
 
 %%
 
