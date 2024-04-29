@@ -4,7 +4,7 @@ Utilizando nossa gramatica, temos alguns exemplos de códigos funcionais na noss
 
 ### ![icon_verde](https://user-images.githubusercontent.com/66503956/205965857-ac7c8e9c-ca9b-4480-9518-036d752c331f.png) Exemplo 01:
 
-```c
+``` java
 A = 10|
 B = 2|
 C = 5|
